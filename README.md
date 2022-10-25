@@ -10,7 +10,7 @@ ej: charCount('a', 'america latina')
 minMax(array)
 ej: minMax([23332, 1, 2, 3, 4, 5])
 
-3)Devolver el digito mas grande de un numero
+3) Devolver el digito mas grande de un numero
 maxDigit(n)
 ej: maxDigit(5543710)
 
@@ -18,7 +18,7 @@ ej: maxDigit(5543710)
 sortDescending(n)
 ej: sortDescending(419523)
 
-5) validar codigo postal. (todos caracteres son numeros, no tiene mas de 5 digitos ni espacios en blanco)
+5) Validar codigo postal. (todos caracteres son numeros, no tiene mas de 5 digitos ni espacios en blanco)
 isValid(cp)
 ej:  isValid('24142')
 
